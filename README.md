@@ -1,5 +1,5 @@
-# ~English
-~English ("NOT English") was an esoteric attempt at using a natural
+# ~Code Generator
+~This code generator is an attempt at using a natural
  language as programming language.
 This repository hosts a second, revised version of the language.
 This updated version generalizes many language concepts and introduces
